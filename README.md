@@ -1,6 +1,6 @@
 # getx_sample_route_manage
 
-A new Flutter project.
+개발하는 남자님 getx 강의 실습입니다.
 
 ## Getting Started
 
